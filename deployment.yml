@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: sprints
-          image: nourmohamed99/sprints-project:latest
+          image: mohabalinassar/sprints-project:latest
           env:
             - name: DB_USER
               value: "root"
